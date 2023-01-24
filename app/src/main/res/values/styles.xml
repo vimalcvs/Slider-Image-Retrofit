@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+
+    </style>
+
+
+    <style name="shapeableImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">9%</item>
+    </style>
+
+</resources>
